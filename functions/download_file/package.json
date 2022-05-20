@@ -1,0 +1,11 @@
+{
+	"name": "download_file",
+	"version": "1.0.0",
+	"main": "downloadFile.js",
+	"author": "shankarr+1001@zohocorp.com",
+	"dependencies": {
+		"fs": "^0.0.1-security",
+		"stream": "^0.0.2",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

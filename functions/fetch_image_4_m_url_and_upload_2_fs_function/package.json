@@ -1,0 +1,12 @@
+{
+	"name": "fetch_image_4_m_url_and_upload_2_fs_function",
+	"version": "1.0.0",
+	"main": "fetchImage4mUrlAndUpload2FS.js",
+	"author": "shankarr+1001@zohocorp.com",
+	"dependencies": {
+		"axios": "^0.23.0",
+		"fs": "^0.0.1-security",
+		"path": "^0.12.7",
+		"zcatalyst-sdk-node": "^2.0.1"
+	}
+}

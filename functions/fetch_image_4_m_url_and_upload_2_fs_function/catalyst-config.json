@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "fetch_image_4_m_url_and_upload_2_fs_function",
+		"stack": "node14",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "fetchImage4mUrlAndUpload2FS.js"
+	}
+}

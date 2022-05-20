@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "download_file",
+		"stack": "node14",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "downloadFile.js"
+	}
+}

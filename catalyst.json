@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "targets": [
+      "fetch_image_4_m_url_and_upload_2_fs_function",
+      "download_file"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
